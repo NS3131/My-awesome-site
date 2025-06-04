@@ -21,11 +21,11 @@ nav ul{
     gap: 10x;
 }
 
-.nice{
+/* .nice{
 background-color: black;
 color: white;
 justify-content: vertical;
-;
+; */
 }
 /* .nav{
 justify-content: horizontal;
@@ -33,19 +33,7 @@ align-items: horizontal;
 gap: Grid;
 text-align: inline-block; 
 } */
- .nav {
-  display: flex;           /* Turns the container into a flexbox */
-  align-items: center;     /* Vertically centers items */
-  gap: 20px;               /* Adds spacing between items */
-  list-style: none;        /* Removes bullet points (if using <ul>) */
-  padding: 0;              /* Removes default padding */
-  background: black    /* Optional: background color */
-  height: 50px;            /* Optional: sets navbar height */
-}
 
-.navbar li {
-  margin: 0;              /* Removes default margins */
-}
 
 .section1{
     background-color: grey;
@@ -57,3 +45,4 @@ text-align: inline-block;
     color: black;
     text-align: center;
 }
+/* finish during the weekend */
